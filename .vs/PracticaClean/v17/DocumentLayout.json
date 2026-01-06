@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\usecases\\crearmedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearmedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\dtos\\medicamentodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\medicamentodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\dtos\\usuariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\usuariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC4348-69C5-4A45-8B52-F347924FC4A7}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\domain\\entities\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC4348-69C5-4A45-8B52-F347924FC4A7}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC4348-69C5-4A45-8B52-F347924FC4A7}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC4348-69C5-4A45-8B52-F347924FC4A7}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\webapi\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F4E51F-A38B-4F89-AC99-C365B1494B15}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EB6C3-8D97-44A8-91A2-A791E74B13A9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EB6C3-8D97-44A8-91A2-A791E74B13A9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\arquitecturalimpia\\arquitecturalimpia\\ejemploclean\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF305A87-E17D-4B1F-946D-305D30C2080B}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\UseCases\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\UseCases\\CrearUsuario.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearUsuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T22:39:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Domain\\Entities\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Domain\\Entities\\Medicamento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T22:38:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T22:38:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T20:31:16.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T20:27:28.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:20:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Controllers\\MedicamentoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\WebApi\\Controllers\\MedicamentoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MedicamentoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:01:09.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:01:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearMedicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\UseCases\\CrearMedicamento.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearMedicamento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\UseCases\\CrearMedicamento.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearMedicamento.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:00:57.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:00:55.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicamentoDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\DTOs\\MedicamentoDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\MedicamentoDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\DTOs\\MedicamentoDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\MedicamentoDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:00:53.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\DTOs\\UsuarioDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\UsuarioDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\DTOs\\UsuarioDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\UsuarioDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:00:52.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArquitecturaLimpia\\ArquitecturaLimpia\\EjemploClean\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T00:00:48.269Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
