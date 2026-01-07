@@ -29,7 +29,8 @@ builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 // --- 4. REPOSITORIOS (Inyeccion de Dependencias actualizada) ---
 builder.Services.AddScoped<IUsuario, UsuarioRepositorio>();
 builder.Services.AddScoped<IMedicamento, MedicamentoRepositorio>();
-
+builder.Services.AddScoped<ObtenerMedicamentosVencidos>();
+builder.Services.AddScoped<ObtenerBajoStock>();
 // --- 5. CASOS DE USO (Actualizados) ---
 builder.Services.AddScoped<CrearUsuario>();
 builder.Services.AddScoped<CrearMedicamento>();
