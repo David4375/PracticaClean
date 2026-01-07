@@ -27,5 +27,18 @@ namespace Infraestructure.Repositorios
         {
             return await _context.Medicamentos.FindAsync(id);
         }
+        public async Task<IEnumerable<Medicamento>> ObtenerVencidos(DateTime fechaReferencia)
+        {
+            return await _context.Medicamentos
+                .Where(m => m.FechaVencimiento < fechaReferencia)
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Medicamento>> ObtenerStockBajo(int limite)
+        {
+            return await _context.Medicamentos
+                .Where(m => m.Stock <= limite)
+                .ToListAsync();
+        }
     }
 }
