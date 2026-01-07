@@ -10,10 +10,10 @@ namespace WebApI.Controllers
     [ApiController]
     public class MedicamentoController : ControllerBase
     {
-        private readonly CrearMedicamento _crearMedicamento;
+        private readonly AgregarMedicamento _crearMedicamento;
         private readonly IMapper _mapper;
 
-        public MedicamentoController(CrearMedicamento crearMedicamento, IMapper mapper)
+        public MedicamentoController(AgregarMedicamento crearMedicamento, IMapper mapper)
         {
             _crearMedicamento = crearMedicamento;
             _mapper = mapper;
@@ -45,8 +45,23 @@ namespace WebApI.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(Guid id)
         {
-            // Aquí implementarías la búsqueda por ID real usando el repo
+            // AquÃ­ implementarÃ­as la bÃºsqueda por ID real usando el repo
             return Ok();
+
+        }
+        [HttpGet("vencidos")]
+        public async Task<IActionResult> GetVencidos([FromServices] ObtenerMedicamentosVencidos useCase)
+        {
+            var resultado = await useCase.EjecutarAsync();
+            return Ok(resultado);
+        }
+
+        [HttpGet("stock-bajo/{limite}")]
+        public async Task<IActionResult> GetBajoStock(int limite, [FromServices] ObtenerBajoStock useCase)
+        {
+            var resultado = await useCase.EjecutarAsync(limite);
+            return Ok(resultado);
         }
     }
+
 }
